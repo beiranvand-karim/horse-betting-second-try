@@ -1,16 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<LandingPage/> should matches the snapshot 1`] = `
+exports[`<SearchGame/> should matches the snapshot 1`] = `
 <form
   action=""
-  onSubmit={[Function]}
 >
   <input
     id="gamedId"
     name="gamedId"
-    onChange={[Function]}
     type="text"
-    value=""
   />
   <button>
     search

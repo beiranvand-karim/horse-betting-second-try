@@ -1,9 +1,19 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Routes/> should matches the snapshot 1`] = `
-<div>
-  <h1>
-    landing page
-  </h1>
-</div>
+<form
+  action=""
+  onSubmit={[Function]}
+>
+  <input
+    id="gamedId"
+    name="gamedId"
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <button>
+    search
+  </button>
+</form>
 `;
